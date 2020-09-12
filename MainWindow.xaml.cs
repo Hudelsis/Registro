@@ -22,7 +22,7 @@ namespace Registro
     {
         public MainWindow()
         {
-            InitializeComponent();
+           InitializeComponent();
         }
     }
 }
